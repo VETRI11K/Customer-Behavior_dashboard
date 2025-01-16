@@ -134,7 +134,7 @@ This README serves as a comprehensive guide to the project's objectives, methods
 
 4. Run the Python scripts:
    ```bash
-   python analysis.py
+   dashboard.py
    ```
 
 5. View the visualizations and dashboards generated in the `output/` folder.
