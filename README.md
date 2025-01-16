@@ -137,7 +137,7 @@ This README serves as a comprehensive guide to the project's objectives, methods
    dashboard.py
    ```
 
-5. View the visualizations and dashboards generated in the `output/` folder.
+5. View the visualizations and dashboards generated in the `Locahost:http://localhost:8501`.
 
 ---
 
