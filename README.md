@@ -149,7 +149,7 @@ This README serves as a comprehensive guide to the project's objectives, methods
 ---
 
 ## License
-The dataset used in this project was sourced from Kaggle ([Amazon consumer Behaviour Dataset]). Please refer to the licensing terms on the Kaggle dataset page for any restrictions or conditions related to its use.
+The dataset used in this project was sourced from Kaggle (Amazon consumer Behaviour Dataset). Please refer to the licensing terms on the Kaggle dataset page for any restrictions or conditions related to its use.
 
 ---
 
